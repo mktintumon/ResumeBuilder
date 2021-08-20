@@ -1,0 +1,21 @@
+{
+    "document": {
+        "id": null,
+        "skinCd": "",
+        "fontSize":"medium",
+        "fontColor":"blue",
+        "userId": null
+    },
+    "educationSection": {
+    },
+    "contactSection": {
+       
+    },
+    "skillSection": {},
+    "auth":{
+        "ErrorMessage":"",
+        "loading":false
+
+    }
+}
+
